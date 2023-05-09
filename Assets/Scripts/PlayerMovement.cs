@@ -23,7 +23,6 @@ public class PlayerMovement : MonoBehaviour
     int isWalkingHash;
     int isRunningHash;
 
-
     float rotationFactorPerFrame = 3f;
 
 
